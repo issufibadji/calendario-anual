@@ -42,7 +42,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 
 ## 🔖Layout
-Para visualizar o layout do projeto crie ou acesse sua conta no [dribbble](dribbble.com) e [desse link](https://dribbble.com/shots/5958443-Alarm-clock) para acessá-lo.
+Para visualizar o layout do projeto crie ou acesse sua conta no [7calendar](7calendar.com) e [desse link](https://7calendar.com/pt/) para acessá-lo.
 
 ## :memo: Licença
 Este projeto esta sobe a licença MIT. Consulte a [LICENÇA](https://github.com/issufibadji/calendario-anual/blob/master/LINCENSE) para obter mais informações.
