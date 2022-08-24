@@ -23,7 +23,7 @@
    <img alt="GitHub" src="https://img.shields.io/github/license/issufibadji/calendario-anual?style=flat-square">
 </p>
 
-![calendario-anual](https://github.com/issufibadji/timedigital/blob/master/calendario-anual.png)
+![calendario-anual](https://github.com/issufibadji/calendario-anual/blob/master/calendario-anual.png)
 
 ## :book: Sobre
 O **Calendario-anual**
